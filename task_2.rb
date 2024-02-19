@@ -12,4 +12,3 @@ while i <= a do
   pakemons.push({name: b, color: c})
   puts pakemons.to_s 
 end
-
